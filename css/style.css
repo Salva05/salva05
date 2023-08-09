@@ -1,0 +1,39 @@
+body {
+    color: #333333;
+    background-color: #ffefd5
+}
+
+h1 {
+    text-align: center;
+    font-family: monospace;
+    font-size: 43px;
+    font-weight: 900;
+    text-shadow: 10px 10px 10px #333333;
+
+    
+}
+
+h2 {
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+} 
+
+.box1 {
+box-shadow: 10px 10px 20px black ;
+    font-size: 24px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #c4cec4;
+width: 90%;
+padding: 15px;
+border: 5px solid #000000;
+margin: 0px;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+img:hover {
+    transform: scale(1.5);
+    border: 3px solid black
+  }
